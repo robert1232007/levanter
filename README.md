@@ -52,7 +52,7 @@ A versatile WhatsApp Bot that supports multiple sessions, allowing you to manage
 
 5. **Clone Repository and Install Packages:**
     ```sh
-    git clone https://github.com/lyfe00011/levanter botName
+    git clone https://github.com/lyfe00011/levanter botName Knight bot
     cd botName
     yarn install
     ```
